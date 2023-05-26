@@ -71,8 +71,6 @@ if (timestxt) {
   };
   
         
- 
-
 
 
 
